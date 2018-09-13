@@ -1,1 +1,8 @@
-# dashboard-prototype
+# Agriness Edge Dashboard Prototype
+
+Launch this example as:
+
+- #### a Jupyter container at [mybinder.org](https://mybinder.org/) <br/> [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/AgrinessEdgeIoT/dashboard-prototype/master)
+
+
+- #### a Jupyter Lab container at [mybinder.org](mybinder.org) <br/> [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/AgrinessEdgeIoT/dashboard-prototype/master?urlpath=lab )
