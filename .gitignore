@@ -1,20 +1,23 @@
-vendor/
-node_modules/
-npm-debug.log
+# Created by https://www.gitignore.io/api/jupyternotebook
 
-# Laravel 4 specific
-bootstrap/compiled.php
-app/storage/
+### JupyterNotebook ###
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+__pycache__
+*/__pycache__/*
+# Remove previous ipynb_checkpoints
+#   git rm -r .ipynb_checkpoints/
+#
+.local
+weka
+.jupyter
+.bashrc
+.bash_rc
+.ipython
+.iconda
+.*
+!/.gitignore
+.bash_logout
+.profile
 
-# Laravel 5 & Lumen specific
-public/storage
-public/hot
-storage/*.key
-.env.*.php
-.env.php
-.env
-Homestead.yaml
-Homestead.json
-
-# Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
-.rocketeer/
+# End of https://www.gitignore.io/api/jupyternotebook
