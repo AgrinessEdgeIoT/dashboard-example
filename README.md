@@ -1,1 +1,1 @@
-# dashboard-example
+# dashboard-prototype
