@@ -1,6 +1,7 @@
 name: agriness-edge-dashboard-example
 channels:
   - conda-forge
+  - defaults  
 dependencies:
   - jupyterlab==0.33.11
   - nodejs
