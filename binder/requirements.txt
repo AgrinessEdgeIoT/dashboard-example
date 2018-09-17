@@ -10,6 +10,6 @@ matplotlib==2.2.2
 pytz==2018.5
 python-dateutil==2.7.3
 portiapy
-jpyterlab_launcher
+jupyterlab_launcher
 ipywidgets
 jupyter_contrib_nbextensions
