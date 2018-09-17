@@ -1,0 +1,16 @@
+jupyterlab
+nodejs
+beakerx
+ipywidgets
+traitlets
+matplotlib
+plotly
+pandas==0.23.4
+SQLAlchemy==1.2.11
+matplotlib==2.2.2
+pytz==2018.5
+python-dateutil==2.7.3
+portiapy
+jpyterlab_launcher
+ipywidgets
+jupyter_contrib_nbextensions
