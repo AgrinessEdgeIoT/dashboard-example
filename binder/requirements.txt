@@ -1,6 +1,4 @@
 jupyterlab
-nodejs
-beakerx
 ipywidgets
 traitlets
 plotly
